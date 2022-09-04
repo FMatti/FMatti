@@ -1,4 +1,6 @@
-*simplicity, optimality, elegance*
+<h2><i>simplicity, optimality, elegance</i></h2>
+
+![Mail](https://img.shields.io/badge/fabio.matti@bluewin.ch-D14836?style=for-the-badge&logo=gmail&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
 
 ### Resume
 | When              | Where              | What                           |
@@ -13,11 +15,6 @@
 ![MATLAB](https://img.shields.io/badge/matlab-green.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAAOEAAADhAEDBbnhAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA4xJREFUWIXV2UmIHFUcx/FPz5hN4hiImhxcUIgRHYIiJBAd4gRNoiQiiKKCCl6CIIonZcQFxQ3FBfTgUQVB8CAul2hQQb2KRuNCZCDmoE6MROKaxPbwr85Upqu7X1XXdOMXhum31q/f1Pv9/+9No9ls+r8xMsRnN3ALNpYdeEL9WpLZgE3Z5wZ2pg4c1kovxvW58k04NXXwsERvwliuvAjXpg4ehujFuKqgfj1WpkwwDNFbsLSgfgSTKRMMWvQSIboTExLMYdCir1C8yi3GcHGvSQYpegE2J/S7rFeHQYreiJMT+o1jRbcOgxI9iisT+zbEu92R+RJ9ypy5J7K6VCaE+ELqFj2Oe0VO8W/uGVtLzrMc53VqrCv3OBO3YjWamMq1rZMYNOZwCb4uaqhjpbfiESEYPsEP2ecGrq447zosLGroR/QC3I4bxEaDw3gj1+cinFFx/iXZ+Daqim7gbvEnzPMu9ufK2yrO36IwrFcVPSoyszwzeCtXHseqivO3uEDBfqgq+giewHti4zXxMv7J2kdFjtwvDQUnm0biGXEMa7EP38xpO1e4x/u5us24uZLMdg7hTrML0tXyFoqNcCnWiNVrCnd4Db9l/b7LflqswHU1CSYSrLX4uFUxd6Ub4j2azAQXWg5+xYvaV30UD+KcevQeYw8eOiYyE32SOGhO6pGs5DiKl/Bpru42FU7XiUxhL/F6bMM12t2gF384fqW3mD/BRMr6CuEee4QblOFvPIsDWXkNbqxJXCfWi4BmRMT3Kcdvpm4cwfO5/qfjDrNRcb5YKjvVtHz6FzwqIlo3Dzwo/PmLrHwa7sGJ8yKznQ0U+/QqbNceib7FC8I5YBnul75xUzmIXdnvZSIOtC5ymrirU3BZJG6ALhd58Zt4RzgGkcw8oHoyVMQhvI6PzObiLVYLw7gQr/aKiCvxp/jWebbrcSQqyTSeE69pN87HWalhfC5n4z5xW9QvX+EZ4UhJVE2YpoWDHO3VsQe78bQSgunvELBL5CBV+V6s8OGyA/s9bu3AlxXG7cNT+KvKQ/sV3RQ7vszG+AlPCreoRB0H22nxqqQwg8fMen0l6rr32JHQZz8e19vWelKX6M/xY5f2vXgYP9fxsLpEN/FBh7bPhOADHdpLU+e12Idy5zjxRd4WtlbJJTpRp+jfzZ5iZoRDlHWWJKqG8U4sF9dZO5WMcmWoW/RAGOa/mSvzHy7ar/9kbEeZAAAAAElFTkSuQmCC&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
-### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
 ### Software
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
