@@ -1,5 +1,3 @@
-## Fabio Matti
-
 *simplicity, optimality, elegance*
 
 ### Resume
