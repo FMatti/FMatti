@@ -1,7 +1,5 @@
 <h2><i>simplicity, optimality, elegance</i></h2>
 
-![Mail](https://img.shields.io/badge/fabio.matti@bluewin.ch-D14836?style=for-the-badge&logo=gmail&color=d4d4d4&logoColor=d4d4d4&labelColor=2b2b2b)
-
 ### Resume
 | When              | Where              | What                           |
 | :---------------- |:-------------------| :------------------------------|
