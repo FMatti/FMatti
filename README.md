@@ -1,21 +1,24 @@
 <h2><i>simplicity, optimality, elegance</i></h2>
 
 ### Resume
-| When              | Where              | What                           |
-| :---------------- |:-------------------| :------------------------------|
-| 09/2022 - today   | EPFL               | Student Assistant              |
-| 09/2021 - today   | EPFL               | MSc in Computational Science   |
-| 06/2019 - today   | Swiss Armed Forces | NBC Defence Officer            |
-| 07/2022 - 09/2022 | Prysmian Group     | Data Science Internship        |
-| 09/2018 - 07/2021 | University of Bern | BSc in Physics and Mathematics |
+| When              | Where              | What                            |
+| :---------------- |:-------------------| :-------------------------------|
+| 02/2023 - today   | Logitech           | Software Engineering Internship |
+| 09/2021 - today   | EPFL               | MSc in Computational Science    |
+| 08/2019 - today   | Swiss Armed Forces | NBC Defence Officer             |
+| 09/2022 - 01/2023 | EPFL               | Student Assistant               |
+| 07/2022 - 09/2022 | Prysmian Group     | Data Science Internship         |
+| 09/2018 - 07/2021 | University of Bern | BSc in Physics and Mathematics  |
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![MATLAB](https://img.shields.io/badge/matlab-green.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAAOEAAADhAEDBbnhAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAABNFJREFUWIXVmV+IVFUcxz+/O3Pn3ju7q2QJCYmU2UOY+VAPakapm1CKEiaF4IamQWJKkX966CGKMHsIKzKCkJCip156KCORTKhI6I8vReRqIopIhe7ce+65c389OLO7rTOzM3fu7tL3ac7v3/nym3PP+Z3fEVXl/wZnCueW0NgDFWOf7tSxOBFs2kElsptF2C5AxVgpe+7Bdn1lipZHb2jsH8DM2nhItDrf9/3BdpynZHlEcbKdEcIAPeoUXm7Xfyoy3RfG9jTKjWPkVYf0Ts/zfhsvwKRnOoqTHQ0IAxRSZEs7MSY709PCyJ5GmNFEfynw3FuAuFWQSc10FCfbWhAGmBnG8Zrx4kwmaV81fXY8I1WeGs9m0kiHxm4FuXk8O0H6jTFzW9lMFmkXeK5NW6mqPNnKYEJIR1E0ByiMjO1GYE67/iIyQAtuuZI2JumvGPulSvEtoFoTF1TY1WGo2VGU3N9MmUvtMRTHCxyVt4GlAmkq6cK6Lozj9SB3dBxUdANwrJGq60yHcbLLUTkJLAVQ4XBPqfRLfWpR2ZslbgrrgaCRrhvSfhjZw6juY+Qfi5y0+lLdoGLMaoW7sgQXmBbG8apGuqykJTLxpwgbRgtVdb/v+2eGjcTZnTF+LZ5sbSTPStpVpHeMbLDsl16rD4xJ+lEWZ4wPgMByY8x130NW0nHguSuAdwAFVHG2AWFNX0zRNzLGHg1Jca7LdlsF09WrzHRc+5ijcsr3i1+P1oVhskQdXVD23HeHZcbuAN7MgTQIl4OSO5uRhLQkHYRxvAplI8hKrp1qinC4GrvP9/ZyqZGTMWZuivMjMHb5ZOetDPi++2Ez0mJMsjxV3YKwmiZbDsh5UZ4Ym3XADSN7AuHevAhfm45vg5K76D+kr1zhpqKXbEJ1C3B7m6ESER3wS6WP6oLI2PcUGn7x3SJ1WNjjuj8BOGGc7C6W7GBtv22XMMDfWq0OZzo0dudEEQZwUjYP/5aU7xjnptAAQ6SyNgiCcwBDJlkJ7M+R4/VQNgA+gOP7xWOi1YXAiTbd4xRZFwTFEwBX43h+Af2Eie6hCDPqtxoHwPf9s4HnPgi6H0ibe+oFUenv8YqfAxhjbiuo84XC9AklXJ9d2QQNtrwwTBbh6CFg7El0XKv28XK5fB6gUmGWFOxxoOUtIwMuIhxB9SIqsxAWA7fWdClpMqfZPt0TGvsq8AxQFZFX/FJxH5DU9NMiY7/JWgw1hHBZU/aWffcDRmpxAKIouQ9J9yryMLCz5YlojJmXJN6Vnh4ujJZXYntIlIHcCMNJ0eqjvu+fbWUURckyFb07U9+jYu09knIU6MvKchS+Cjx3DTDUrkOmgqnsuj84yDrAZvEfhaOB566iA8LQxSXA84pHgBey+qN8H3juWiDq1LXbtphUjD0isKIjJzhlY/eBvj4uZ5m02zui4rCHazV1u/g9rdqVWQlDDhfbsuueFPRIm+aDpMmy+l6fFbn0PVIKB9owO+OQLg+C4M9u58ur1Suhsb8C85rofyZNHqkXWN0irw6TgrzfRPVZ4LlL8iIMOTbV/4EbSsaeA8o1kYK+HnilF2lZhHWO3Hp50+EvhY9rw0EHeSjwSnvImTDk/HwRhuFsHHd94BUP0uEp1wmm6h2xK0zlM3Nm/Att/eMpkFQCtAAAAABJRU5ErkJggg==&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ### Software
+![GMSH](https://img.shields.io/badge/GMSH-green.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAABhWlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpSItDnYQcchQHdSCqIijVLEIFkpboVUHk0u/oElDkuLiKLgWHPxYrDq4OOvq4CoIgh8gjk5Oii5S4v+SQosYD4778e7e4+4dIDQqTDW7JgBVs4xUPCZmc6ti4BVBhBDAGEYlZuqJ9GIGnuPrHj6+3kV5lve5P0dIyZsM8InEc0w3LOIN4plNS+e8TxxmJUkhPiceN+iCxI9cl11+41x0WOCZYSOTmicOE4vFDpY7mJUMlXiaOKKoGuULWZcVzluc1UqNte7JXxjMaytprtMcQhxLSCAJETJqKKMCC1FaNVJMpGg/5uEfdPxJcsnkKoORYwFVqJAcP/gf/O7WLExNuknBGND9Ytsfw0BgF2jWbfv72LabJ4D/GbjS2v5qA5j9JL3e1iJHQN82cHHd1uQ94HIHGHjSJUNyJD9NoVAA3s/om3JA/y3Qu+b21trH6QOQoa6Wb4CDQ2CkSNnrHu/u6ezt3zOt/n4As39ywQFFeNUAAAAGYktHRAD/AP8A/6C9p5MAAAAJcEhZcwAADdcAAA3XAUIom3gAAAAHdElNRQfmDA0IAje/y/HWAAADh0lEQVRYw+3Ya4iUVRjA8d+sdjHlgbJylWIxiqyIzWqTjMKwjaIPIgpFIFiEdoEk7WKaBJVZhtXX6GZUH6ToQ1RkFlG5IWFB2Y2whC5aCRlPBJmSffAsDetaszuXncAHhpn3nfO+5z//95wzz3M4FP9EZq7NzI7/E/DVmbkvM29txv0rTYL+HKdhB7oiYk8j79/RBOB5BRgmYlHbm66y/BGm4kdMjojdbWk6M++osvwO3iy2H2jL4ZGZ47B4wOl78Reuy8zOdjR9C46vPhER7+EtjMPytoLOzDG4+SBfX489uDYzJ7aT6dtx7GBfRMQ3WIujsLQtoDOzqwaYVfgDN2bm1HYwfTeO/LcGEbENz2A07hlR6Mw8CVfV2Pw27MJlmXnuSJq+C2NqaRgRv2FNsb1iRKAzczKuHOJlj+IXXFGP7XpMP1VWhJojIn7HwxhVrm8ddGb2YMYw+1yNz3BmZs5upek1w7VU0tRVVStP86EzcxourHMCryu2uzNzblOhM/PweixX2d6LB8vhsswc20zTs3FBI/6KI+JZvF5y7gVNgc7Mw0qq2ci4rz93KUlXw03PwSmNJI6IvmK7Ezc1FDozRzfBcn+sLO9LypxpmOkFOLkZxBGxsSRTnbUugR01WD6mauw1K1aUsmxRZp7QCNMLcXQziSPiOzyGsVhWF3RmjscSrYn+in1eZp5Yj+mFGN8K4oj4tuTc43DnsKBL6rlSa+MJ/IwbMvOs4Zhe2mJgEfErHiqH9w8JulheYGTiSezE5ZnZPRTTy0cIWETsqirHVtcEnZmn45oG9D8+MycN89rH8SV6M/OANLgyCPR6XNogcX9iK56zf0NySylwa0kd5uBFbMHZJZ09EDozZ+DtJj79xMd4Hhux9WBbwJk5Cp9iCmZFxMsHQGdmBRsws06w7ejDC5iL6Zh0kPmzEx+WIrcvIrYPAJ+Fl8pQ6e63XQ19UXmEQ4nd+Lr82M2l422DWOvCNJyPS0ryNdiu1Da8itewKSJ2ZeYb6K22XalKPftw3n9A7im7ROvs3zDfPNBOjeO1s1QsF5e9kwk4YpD58EXpbwa+Qk9EZD/0fDw9yP33lsbr8W6B/L7hAz1zAs4pBXMvustO1MBYHBGPVEri/QlOxb7yeQPexwcR8UOr1+rMPA49ZT7MLEOrgp8wpZKZZ2B+gdwUETu0WZRsc3p5veJQtCj+BlfgQTNVICb7AAAAAElFTkSuQmCC&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
