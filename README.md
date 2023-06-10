@@ -23,3 +23,4 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&color=f6f8fa&logoColor=f6f8fa&labelColor=2b2b2b)
