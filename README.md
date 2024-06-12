@@ -3,9 +3,10 @@
 ### Resume
 | When              | Where              | What                            |
 | :---------------- |:-------------------| :-------------------------------|
-| 09/2021 - today   | EPFL               | MSc in Computational Science    |
-| 09/2022 - today   | EPFL               | Student Assistant               |
+| 03/2024 - today   | EPFL               | Doctoral student in Mathematics |
 | 08/2019 - today   | Swiss Armed Forces | NBC Defence Officer             |
+| 09/2021 - 02/2024 | EPFL               | MSc in Computational Science    |
+| 09/2022 - 02/2024 | EPFL               | Student Assistant               |
 | 02/2023 - 08/2023 | Logitech           | Engineering Internship          |
 | 07/2022 - 09/2022 | Prysmian Group     | Data Science Internship         |
 | 09/2018 - 07/2021 | University of Bern | BSc in Physics and Mathematics  |
